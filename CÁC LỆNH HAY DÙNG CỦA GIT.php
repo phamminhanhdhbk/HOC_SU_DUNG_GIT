@@ -7,6 +7,7 @@ git push origin Name_tag // đẩy lên tag muốn đưa lên
 git init // tạo repostory trên git
 git checkout -b feature_x  // tạo nhánh mới trên git
 git checkout master // trở lại nhánh 
-git branch -d feature_x // xóa nhánh
+git branch -d name_branch // xóa nhánh
 git branch // kiểm tra xem mình đang ở nhánh nào
 git branch -v // xem commit mới nhất trên nhánh
+
