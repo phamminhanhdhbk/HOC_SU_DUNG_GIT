@@ -11,3 +11,5 @@ git branch -d name_branch // xóa nhánh
 git branch // kiểm tra xem mình đang ở nhánh nào
 git branch -v // xem commit mới nhất trên nhánh
 
+
+đây là nhánh của minhanh
